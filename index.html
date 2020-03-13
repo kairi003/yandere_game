@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Loading TyranoScript</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<meta name="viewport" content=" user-scalable=no" />
+<meta name="robots" content="noindex,nofollow" />
+
+<link href="./tyrano/tyrano.css" rel="stylesheet" type="text/css"/>
+<link href="./tyrano/animate.css" rel="stylesheet" type="text/css"/>
+<link href="./tyrano/libs/jquery-ui.css" rel="stylesheet" type="text/css"/>
+
+<script type="text/javascript" src="./tyrano/libs/jquery-3.4.1.min.js"></script>
+<script type="text/javascript" src="./tyrano/libs/jquery-migrate-3.1.0.js"></script>
+
+<script>
+try{
+    window.jQuery = window.$ = require('./tyrano/libs/jquery-3.4.1.min.js');
+}catch(e){
+
+}
+</script>
+
+
+<script type="text/javascript" src="./tyrano/libs/jquery-ui.min.js"></script>
+<script type="text/javascript" src="./tyrano/libs/jquery.a3d.js"></script>
+<script type="text/javascript" src="./tyrano/libs/jsrender.min.js"></script>
+
+<!-- 廃止予定 alertify.js -->
+<link href="./tyrano/libs/alertify/alertify.core.css" rel="stylesheet" type="text/css"/>
+<link href="./tyrano/libs/alertify/alertify.default.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="./tyrano/libs/alertify/alertify.min.js"></script>
+
+<!-- remodal -->
+<link rel="stylesheet" href="./tyrano/libs/remodal/remodal.css">
+<link rel="stylesheet" href="./tyrano/libs/remodal/remodal-default-theme.css">
+<script src="./tyrano/libs/remodal/remodal.js"></script>
+
+<script type="text/javascript" src="./tyrano/libs/html2canvas.js"></script>
+
+
+<script type="text/javascript" src="./data/system/KeyConfig.js"></script>
+
+<script type="text/javascript" src="./tyrano/lang.js" ></script>
+<script type="text/javascript" src="./tyrano/libs.js" ></script>
+
+<script type="text/javascript" src="./tyrano/tyrano.js" ></script>
+<script type="text/javascript" src="./tyrano/tyrano.base.js" ></script>
+
+<script type="text/javascript" src="./tyrano/plugins/kag/kag.js" ></script>
+<script type="text/javascript" src="./tyrano/plugins/kag/kag.event.js" ></script>
+<script type="text/javascript" src="./tyrano/plugins/kag/kag.key_mouse.js" ></script>
+<script type="text/javascript" src="./tyrano/plugins/kag/kag.layer.js" ></script>
+<script type="text/javascript" src="./tyrano/plugins/kag/kag.menu.js" ></script>
+<script type="text/javascript" src="./tyrano/plugins/kag/kag.parser.js" ></script>
+<script type="text/javascript" src="./tyrano/plugins/kag/kag.rider.js" ></script>
+<script type="text/javascript" src="./tyrano/plugins/kag/kag.studio.js" ></script>
+<script type="text/javascript" src="./tyrano/plugins/kag/kag.tag_audio.js" ></script>
+<script type="text/javascript" src="./tyrano/plugins/kag/kag.tag_camera.js" ></script>
+<script type="text/javascript" src="./tyrano/plugins/kag/kag.tag_ext.js" ></script>
+<script type="text/javascript" src="./tyrano/plugins/kag/kag.tag_system.js" ></script>
+<script type="text/javascript" src="./tyrano/plugins/kag/kag.tag_vchat.js" ></script>
+<script type="text/javascript" src="./tyrano/plugins/kag/kag.tag.js" ></script>
+
+<link href="./tyrano/libs/textillate/assets/animate.css" rel="stylesheet">
+<script type="text/javascript" src="./tyrano/libs/textillate/assets/jquery.lettering.js"></script>
+<script type="text/javascript" src="./tyrano/libs/textillate/jquery.textillate.js"></script>
+<script type="text/javascript" src="./tyrano/libs/jquery.touchSwipe.min.js"></script>
+<script type="text/javascript" src="./tyrano/libs/howler.js"></script>
+
+
+<script type="text/javascript" src="./tyrano/libs/lz-string.min.js"></script>
+
+<script type="text/javascript">
+function doScroll() { if (window.pageYOffset === 0) { window.scrollTo(0,1); } }
+window.onload = function() { setTimeout(doScroll, 100); }
+
+</script>
+
+<!--ローディングシステムを読み込み-->
+<link href="./data/loading-system/loading.css" rel="stylesheet">
+
+</head>
+
+<body onselectstart="return false" onContextmenu="return false" ontouchmove="event.preventDefault()" >
+
+
+<!--ローディング画面を表示-->
+<script>
+$(window).keydown(func_esc);  // ローディング中でもesc処理を実行できるようにする
+function func_esc(e) { if (e.keyCode == 27) { window.close(); }}
+</script>
+<div class="loadingWrap">
+<div class="sk-cube-grid">
+<div class="sk-cube sk-cube1"></div>
+<div class="sk-cube sk-cube2"></div>
+<div class="sk-cube sk-cube3"></div>
+<div class="sk-cube sk-cube4"></div>
+<div class="sk-cube sk-cube5"></div>
+<div class="sk-cube sk-cube6"></div>
+<div class="sk-cube sk-cube7"></div>
+<div class="sk-cube sk-cube8"></div>
+<div class="sk-cube sk-cube9"></div>
+</div>
+<p>Loading Now...</p>
+</div>
+
+
+<div id="tyrano_base" class="tyrano_base" style="overflow:hidden" unselectable="on" ondragstart="return false" ></div>
+<div id="vchat_base" class="vchat_base" style="overflow:hidden" unselectable="on" ondragstart="return false" >
+
+    <!--
+    <div style="right: 0px; margin-right: 20px;" class="vchat やまと vchat_talked">
+    <figure class="v_chat_face vchat-img-right" style="width: 100px; height: 100px;">
+        <img class="face_img" src="./data/fgimage/chat/yamato/normal.png" alt="">
+        <figcaption class=" vchat_name_text="" vchat-img-description"="">
+        <div class="v_chat_name" style="justify-content: center; display: flex; width: 100px; color: rgb(0, 0, 0); font-family: メイリオ, sans-serif;"><p>やまと</p>
+        </div>
+    </figure>
+    <div class="v_chat_text vchat-text-left" style="margin-top: 25px; margin-right: 120px; margin-left: 100px; background-color: rgb(255, 255, 255);">                   <div class="text_f-before vchat-text-left-f-before"></div>                   <p class="vchat-text-inner" style="color: rgb(36, 36, 36); font-size: 26px; font-family: メイリオ, sans-serif; display: block;">おーい。きゃああああああああああ</p>
+    <div class="text_f-after vchat-text-left-f-after" style="border-left: 10px solid rgb(255, 255, 255);"></div>                 </div>
+    </div>
+    -->
+
+
+</div> <!-- end vchat_base -->
+
+
+
+
+<!--  First シナリオファイルに外部ファイルを利用したい場合は、こちらにシナリオファイルのURLを指定できます-->
+<!--
+<input type="hidden" id="first_scenario_file" value="http://test.com/tyrano/data/scenario/first.ks">
+-->
+
+<!-- vchatモード -->
+<input type="hidden" id="vchat_mode" value="false">
+
+<!-- モーダル用 -->
+<div class="remodal-bg" ></div>
+<div class="remodal" data-remodal-id="modal" data-remodal-options="closeOnEscape:false, closeOnOutsideClick:false">
+  <!--
+  <button data-remodal-action="close" class="remodal-close"></button>
+  -->
+  <h1 class="remodal_title"></h1>
+  <p class="remodal_txt">
+  </p>
+  <br>
+  <button data-remodal-action="cancel" class="remodal-cancel">Cancel</button>
+  <button data-remodal-action="confirm" class="remodal-confirm">OK</button>
+</div>
+
+
+</body>
+</html>

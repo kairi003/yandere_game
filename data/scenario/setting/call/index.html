@@ -1,0 +1,22 @@
+<meta lang="ja">
+<meta charset="UTF-8">
+<style>
+  html, body {
+    margin: 0;
+    width: 100%;
+  }
+  pre {
+    margin: 1rem;
+    white-space: pre-wrap;
+    line-height: 1.5rem;
+  }
+</style>
+<ol id="ol"></ol>
+<script>
+  const console_log = console.log;
+  console.log = (...args) => {
+    console_log(...args);
+    ol.insertAdjacentHTML('beforeend',`<li><pre><code>${args.join(', ')}</code></pre></li>`);
+  }
+</script>
+<script src="dist_measure.js".js?0"></script>

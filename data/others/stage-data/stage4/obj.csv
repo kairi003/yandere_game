@@ -1,0 +1,2 @@
+﻿storage,game_over_storage,clear_storage,night_time,stamina,stamina_recovery_time,battery_max,battery_decrease_time,interval_time,fast_move_per,camera_difficulty,player_place,enemy_place
+event/night-main.ks,event/game-over.ks,event/clear.ks,3,10,60,1000,250,5,50,1,1,17
