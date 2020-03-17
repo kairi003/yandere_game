@@ -1,0 +1,437 @@
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\corridor\corridor1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\corridor\corridor2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\corridor\corridor3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\corridor\corridor4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\garden\garden.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\japanese-style-room\japanese-style-room1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\japanese-style-room\japanese-style-room2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\japanese-style-room\japanese-style-room3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\japanese-style-room\japanese-style-room4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\living\living1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\living\living2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\living\living3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\living\living4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\outside\outside1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\outside\outside2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\outside\outside3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\outside\outside4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\room1\room1-1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\room1\room1-2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\room1\room1-3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\room1\room1-4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\room2\room2-1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\room2\room2-2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\room2\room2-3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\room2\room2-4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\room2-flat1\room2-flat1-1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\room2-flat1\room2-flat1-2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\room2-flat1\room2-flat1-3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\room2-flat1\room2-flat1-4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\room2-flat2\room2-flat2-1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\room2-flat2\room2-flat2-2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\room2-flat2\room2-flat2-3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\home\room2-flat2\room2-flat2-4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\art1\art1-1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\art1\art1-2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\art1\art1-3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\art1\art1-4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\art1\art1-5.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\art1\art1-6.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\art2\art2-1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\art2\art2-2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\art2\art2-3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\art2\art2-4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\art2\art2-5.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\art2\art2-6.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\art3\art3-1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\art3\art3-2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\art3\art3-3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\art3\art3-4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\art3\art3-5.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\art3\art3-6.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\behind\behind1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\behind\behind2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\behind\behind3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\corridor1\corridor1-1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\corridor1\corridor1-2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\corridor1\corridor1-3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\corridor1\corridor1-4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\corridor1\corridor1-5.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\corridor1\corridor1-6.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\corridor1\corridor1-7.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\corridor1\corridor1-8.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\corridor1\corridor1-narrow1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\corridor1\corridor1-narrow2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\corridor1\corridor1-narrow3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\corridor1\corridor1-narrow4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\courtyard\courtyard1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\courtyard\courtyard2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\courtyard\courtyard3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\courtyard\courtyard4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\entrance\entrance1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\entrance\entrance2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\entrance\entrance3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\entrance\entrance4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\entrance\entrance5.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\gate\gate1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\gate\gate2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\gate\gate3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\gate\gate4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\health\health-close1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\health\health-close2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\health\health-close3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\health\health-close4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\health\health-close5.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\health\health-open1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\health\health-open2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\health\health-open3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\health\health-open4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\health\health-open5.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\library\library1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\library\library2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\library\library3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\library\library4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\library\library5.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\library\library6.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\pc-room\pc-room1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\pc-room\pc-room2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\pc-room\pc-room3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\pool\pool1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\pool\pool2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\pool\pool3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\pool\pool4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\pool\pool5.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\pool\pool6.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\pool\pool7.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\rooftop\rooftop-tower.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\rooftop\rooftop0.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\rooftop\rooftop1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\rooftop\rooftop10.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\rooftop\rooftop11.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\rooftop\rooftop12.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\rooftop\rooftop2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\rooftop\rooftop3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\rooftop\rooftop4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\rooftop\rooftop5.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\rooftop\rooftop6.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\rooftop\rooftop7.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\rooftop\rooftop8.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\rooftop\rooftop9.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\room1\room1-1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\room1\room1-2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\room1\room1-3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\room1\room1-4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\room1\room1-5.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\room2\room2-1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\room2\room2-2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\room2\room2-3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\room2\room2-4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\room2\room2-5.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\room3\room3-1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\room3\room3-2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\room3\room3-3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\room3\room3-4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\room3\room3-5.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\room4\room4-1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\room4\room4-2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\room4\room4-3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\stairs\stairs-middle1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\stairs\stairs-middle2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\stairs\stairs-middle3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\stairs\stairs-middle4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\stairs\stairs-top1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\stairs\stairs-top2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\stairs\stairs-top3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\stairs\stairs-top4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\stairs\stairs-top5.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\stairs\stairs-top6.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\stairs\stairs-top7.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\stairs\stairs-top8.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\stairs\stairs-under1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\stairs\stairs-under2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\stairs\stairs-under3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\stairs\stairs-under4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\warehouse\warehouse1.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\warehouse\warehouse2.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\warehouse\warehouse3.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\bgimage\school\warehouse\warehouse4.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\box.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\sample.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\chara\akane\angry.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\chara\akane\doki.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\chara\akane\happy.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\chara\akane\normal.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\chara\akane\sad.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\chara\yamato\angry.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\chara\yamato\happy.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\chara\yamato\normal.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\chara\yamato\sad.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\chara\yamato\tohoho.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\color\black.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\color\col1.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\color\col2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\color\col3.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\color\col4.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\color\col5.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\color\col6.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\color\empty.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\color\red.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\color\white.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\1\1.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\1\2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\1\3.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\1\4.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\1\5.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\1\6.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\1\7.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\1\8.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\1\9.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\1\e.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\1\i.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\1\o.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\1\q.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\1\r.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\1\t.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\1\u.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\1\w.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\1\y.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\2\1.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\2\2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\2\3.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\2\4.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\2\5.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\2\6.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\2\7.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\2\8.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\2\9.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\2\e.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\2\i.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\2\o.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\2\q.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\2\r.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\2\t.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\2\u.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\2\w.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\2\y.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\3\1.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\3\2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\3\3.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\3\4.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\3\5.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\3\6.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\3\7.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\3\8.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\3\9.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\3\e.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\3\i.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\3\o.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\3\q.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\3\r.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\3\t.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\3\u.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\3\w.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\fgimage\map-box\3\y.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\ExQuestion.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\frame.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\layer_line_black.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\auto.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\auto2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\close.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\close2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\load.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\load2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\log.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\log2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\menu.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\menu2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\qload.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\qload2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\qsave.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\qsave2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\save.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\save2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\screen.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\screen2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\skip.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\skip2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\sleep.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\sleep2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\title.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\button\title2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\0.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\1.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\10.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\11.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\12.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\13.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\14.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\15.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\16.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\17.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\18.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\3.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\4.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\5.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\6.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\7.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\8.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\camera-button\9.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\config\bg_config.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\config\arrow_next.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\config\arrow_prev.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\config\button_unread_off.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\config\button_unread_on.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\config\c_btn.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\config\c_btn_back.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\config\c_btn_back2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\config\c_set.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\config\c_uts_off.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\config\c_uts_on.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\config\label_cg.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\config\label_config.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\config\label_recollection.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\config\menu_button_close.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\config\menu_button_close2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\config\message_box.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\title\button_cg.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\title\button_config.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\title\button_load.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\title\button_replay.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\image\title\button_start.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\frame_message.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\auto.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\auto2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\close.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\close2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\load.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\load2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\log.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\log2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\menu.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\menu2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\qload.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\qload2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\qsave.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\qsave2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\save.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\save2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\screen.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\screen2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\skip.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\skip2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\sleep.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\sleep2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\title.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\button\title2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\config\bg_config.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\config\check.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\config\c_btn_back.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\config\c_btn_back2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\config\on.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\menu_load_bg.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\menu_log_bg.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\menu_save_bg.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\arrow_down.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\arrow_next.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\arrow_prev.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\arrow_up.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\menu_bg.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\menu_button_close.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\menu_button_close2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\menu_button_load.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\menu_button_load2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\menu_button_save.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\menu_button_save2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\menu_button_skip.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\menu_button_skip2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\menu_button_title.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\menu_button_title2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\menu_message_close.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\menu_message_close2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\saveslot.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09\image\system\saveslot2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\frame_message.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\auto.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\auto2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\close.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\close2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\load.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\load2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\log.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\log2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\menu.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\menu2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\qload.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\qload2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\qsave.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\qsave2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\save.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\save2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\screen.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\screen2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\skip.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\skip2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\sleep.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\sleep2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\title.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\button\title2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\config\bg_config.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\config\check.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\config\c_btn_back.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\config\c_btn_back2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\config\on.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\menu_bg.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\menu_load_bg.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\menu_log_bg.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\menu_save_bg.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\arrow_down.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\arrow_next.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\arrow_prev.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\arrow_up.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\menu_bg.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\menu_button_close.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\menu_button_close2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\menu_button_load.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\menu_button_load2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\menu_button_save.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\menu_button_save2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\menu_button_skip.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\menu_button_skip2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\menu_button_title.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\menu_button_title2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\menu_message_close.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\menu_message_close2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\saveslot.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\data\others\plugin\theme_kopanda_09_v101\01 写真背景版\theme_kopanda_09\image\system\saveslot2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\bg_config.jpg
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\arrow_down.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\arrow_next.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\arrow_prev.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\arrow_up.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\bg_base.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\button_menu.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\label_backlog.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\label_cg.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\label_config.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\label_load.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\label_menu.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\label_recollection.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\label_save.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\menu_button_close.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\menu_button_close2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\menu_button_load.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\menu_button_load2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\menu_button_save.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\menu_button_save2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\menu_button_skip.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\menu_button_skip2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\menu_button_title.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\menu_button_title2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\menu_message_close.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\menu_message_close2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\noimage.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\saveslot1.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\saveslot2.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\thumbnail_save.png
+C:\Users\Kai Suzuki\Google ドライブ\sft\yandere\project_tyrano5\yandere_game\tyrano\images\system\transparent.png
