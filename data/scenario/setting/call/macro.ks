@@ -19,6 +19,10 @@ console.log(mp.val);
 [endscript]
 [endmacro]
 
+[macro name="clog"]
+[eval exp="console.log(mp.val)"]
+[endmacro]
+
 
 
 

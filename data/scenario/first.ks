@@ -34,10 +34,6 @@ sf.start_clear_system = true;
 @key_event method="screen_full"
 
 
-; -- test --
-;@jump storage="test/01.ks"
-; ----------
-
 
 [iscript]
 console.log("↓");
@@ -46,6 +42,7 @@ console.log("↓");
 console.log("↓");
 console.log("↓");
 [endscript]
+
 
 
 [reset_all]
@@ -61,6 +58,13 @@ console.log("↓");
 [iscript]
 $('.loadingWrap').css({'display':'none'});
 [endscript]
+
+
+
+; -- test --
+;@jump storage="test/01.ks"
+; ----------
+
 
 
 ;main.ksへ移動
