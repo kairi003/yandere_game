@@ -251,7 +251,6 @@ f.ui.battery.text = 'Battery: ' + f.ui.battery.val + '%';
   [for name="tf.i" from="0" len="&f.stage.var.area_sum"]
     [iscript]
     var num = tf.i + 1;
-    f.camera_target = "camera-" + num;
     tf.break = false;
     if (f.player_place == num) tf.break = true;
     //else console.log(f.camera_target + " is ready");
@@ -262,13 +261,14 @@ f.ui.battery.text = 'Battery: ' + f.ui.battery.val + '%';
         tf.graphic = "camera-button/" + Number(tf.i+1) + ".png";
         [endscript]
         [locate x="&sf.camera_button[tf.i][0]" y="&sf.camera_button[tf.i][1]"]
-        [button fix="true" graphic="&tf.graphic" width="&sf.camera_size" height="&sf.camera_size" storage="night-system/night-camera.ks" target="&f.camera_target"]
+        [button fix="true" graphic="&tf.graphic" width="&sf.camera_size" height="&sf.camera_size" storage="night-system/night-camera.ks" target="camera"]
       [else]
         [image name="map_ui" layer="1" storage="../image/camera-button/0.png" x="&sf.camera_button[tf.i][0]" y="&sf.camera_button[tf.i][1]" width="&sf.camera_size" height="&sf.camera_size"]
       [endif]
       [else]
     [ignore exp="tf.break == true"]
-      [key_event method="keydown" key_code="&sf.key_code_list_array[tf.i][0]" storage="night-system/night-camera.ks" target="&f.camera_target"]
+      [eval exp="tf.num = tf.i + 1"]
+      [key_event method="keydown" key_code="&sf.key_code_list_array[tf.i][0]" storage="night-system/night-camera.ks" target="camera" preexp="&tf.num" exp="tf.camera_num = preexp"]
     [endignore]
     [endif]
   [nextfor]

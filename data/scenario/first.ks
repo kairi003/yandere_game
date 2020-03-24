@@ -62,7 +62,7 @@ $('.loadingWrap').css({'display':'none'});
 
 
 ; -- test --
-;@jump storage="test/01.ks"
+@jump storage="test/01.ks"
 ; ----------
 
 

@@ -59,3 +59,14 @@ if( getDevice == 'sp' ){
 //tyrano.plugin.kag.variable.sf.getDevice = "sp";
 console.log("Device: " + tyrano.plugin.kag.variable.sf.getDevice);
 /* ========================================================================= */
+
+
+
+
+
+/* == よく使う変数 ========================================================== */
+const system = {
+  width: $('#tyrano_base').width(),
+  height: $('#tyrano_base').height()
+}
+/* ========================================================================= */

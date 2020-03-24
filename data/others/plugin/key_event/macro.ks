@@ -12,30 +12,30 @@
 mp.method = mp.method || 'click';
 mp.call = mp.call || 'false';
 mp.storage = mp.storage || null;
-mp.target = mp.target || '*key_event_target';
+mp.target = mp.target || null;
 mp.key_code = Number(mp.key_code) || 13;
 
 // オリジナルメソッドを追加した場合は以下のswitch分に追加する
 switch (mp.method) {
 
   case "click" :
-    sf.key_event.click.func(mp.call, mp.storage, mp.target);
+    key_event.click.func(mp.call, mp.storage, mp.target, mp.exp, mp.preexp);
     break;
 
   case "keydown" :
-    sf.key_event.keydown.func(mp.call, mp.storage, mp.target, mp.key_code);
+    key_event.keydown.func(mp.call, mp.storage, mp.target, mp.key_code, mp.exp, mp.preexp);
     break;
 
   case "keyup" :
-    sf.key_event.keyup.func(mp.call, mp.storage, mp.target, mp.key_code);
+    key_event.keyup.func(mp.call, mp.storage, mp.target, mp.key_code, mp.exp, mp.preexp);
     break;
 
   case "esc" :  // オリジナルメソッド ESCキー強制終了
-    sf.key_event.esc.func();
+    key_event.esc.func();
     break;
 
   case "screen_full" :  // オリジナルメソッド Spaceキー全画面モード切替え
-    sf.key_event.screen_full.func();
+    key_event.screen_full.func();
     break;
 
 }
